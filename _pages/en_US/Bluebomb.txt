@@ -22,7 +22,7 @@ This exploit is more steps then the other methods. It's recommeded to use FlashH
 #### What you need
 * A Wii
 * A Computer with Bluetooth and Running Linux
-* A USB with a minimum storage of One Gigabite
+* A USB
 
 #### Instructions
 
