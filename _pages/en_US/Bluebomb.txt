@@ -33,7 +33,7 @@ This exploit is more steps than the other methods. It's recommended to use Flash
 1. Extract the files out of the archive with **unzip bluebomb1.5.zip**
 1. Put the terminal directory from it with **cd bluebomb1.5**
 1. Now let's get the USB Ready (Don't close the terminal)
-1. Plug the USB into your PC and go to *http://bit.ly/HackWiiMini*
+1. Plug the USB into your PC and go to *https://bootmii.org/download/*
 1. Extract the Files to inside the folder to the USB
 1. Eject the USB from the PC and plug into the Wii
 1. Turn the Wii on and MAKE SURE NO Wiimotes Connects! You can leave it on the Wii Heath and Safety Screen
