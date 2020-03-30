@@ -29,6 +29,7 @@ This exploit is more steps than the other methods. It's recommended to use Flash
 
 1. Open Terminal
 1. Disable the Bluetooth Service with the code **sudo systemctl disable --now bluetooth**
+1. Make Bluebomb folder **mkdir bluebomb**
 1. Download the Pre-built binaries with **wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip**
 1. Extract the files out of the archive with **unzip bluebomb1.5.zip**
 1. Put the terminal directory from it with **cd bluebomb1.5**
