@@ -16,7 +16,7 @@ RiiConnect is not available with the Wii Mini yet.
 {: .notice--info}
 Don't attempt to install this on the WiiU.
 {: .notice--info}
-This exploit is more steps than the other methods. It's recommended to use FlashHax or Letterbomb instead.
+This exploit is more steps than the other methods. It's recommended to use FlashHax or Letterbomb instead. If it's not a Wii Mini
 {: .notice--info}
 
 #### What you need
