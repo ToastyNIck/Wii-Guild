@@ -38,7 +38,7 @@ This exploit is more steps than the other methods. It's recommended to use Flash
 1. Extract the Files to inside the folder to the USB
 1. Eject the USB from the PC and plug into the Wii
 1. Turn the Wii on and MAKE SURE NO Wiimotes Connects! You can leave it on the Wii Heath and Safety Screen
-![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png
+![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png)
 1. Back in Terminal Type these commands to specific Wii Regions
       For a PAL Wii Mini: **sudo ./bluebomb ./stage0/MINI_SM_PAL.bin stage1.bin**
       For an USA Wii Mini: **sudo ./bluebomb ./stage0/MINI_SM_NTSC.bin stage1.bin**
