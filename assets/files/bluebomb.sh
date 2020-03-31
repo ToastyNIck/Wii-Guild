@@ -1,0 +1,1 @@
+mkdir /tmp/bluebomb && cd /tmp/bluebomb && wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip && unzip bluebomb1.5.zip && sudo sh -c 'systemctl disable --now bluetooth && ./bluebomb-x64 ./stage0/MINI_SM_PAL.bin stage1.bin && ./bluebomb-x64 ./stage0/MINI_SM_PAL.bin stage1.bin && systemctl enable --now bluetooth' && cd ~ && rm -rf /tmp/bluebomb
