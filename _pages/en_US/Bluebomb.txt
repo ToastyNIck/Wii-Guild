@@ -16,7 +16,7 @@ RiiConnect is not available with the Wii Mini yet.
 {: .notice--info}
 Don't attempt to install this on the WiiU.
 {: .notice--info}
-This exploit is more steps than the other methods. It's recommended to use FlashHax or Letterbomb instead. If it's not a Wii Mini
+This exploit is more steps than the other methods. If your console is not a Wii Mini, it is recommended to use FlashHax or Letterbomb instead.
 {: .notice--info}
 
 #### What you need
@@ -55,7 +55,12 @@ This exploit is more steps than the other methods. It's recommended to use Flash
 {: .notice--info}
 
 #### cIOS Installation
-cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the experimental stage .
+cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the experimental stage.
+{: .notice--info}
+This version of cIOS is only for the Wii Mini
 {: .notice--info}
 
-1.
+1. Download the cIOS File [d2x-cios-installer-Wii Mini.zip](/assets/files/d2x-cios-installer-Wii Mini.zip)
+1. Open the archive and drag and drop the only folder to the "apps" folder on your USB Drive 
+1. Open the Homebrew Channel on your Wii Mini
+1. Launch the d2x cIOS installer
