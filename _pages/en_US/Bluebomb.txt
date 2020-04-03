@@ -60,7 +60,7 @@ cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the 
 This version of cIOS is only for the Wii Mini
 {: .notice--info}
 
-1. Download the cIOS File [d2x-cios-installer-Wii Mini.zip](/assets/files/d2x-cios-installer-Wii Mini.zip)
+1. Download the cIOS File from https://bluebomb.glitch.me/d2xl-cIOS/index.html
 1. Open the archive and drag and drop the only folder to the "apps" folder on your USB Drive 
 1. Open the Homebrew Channel on your Wii Mini
 1. Launch the d2x cIOS installer
@@ -74,4 +74,7 @@ This version of cIOS is only for the Wii Mini
 
 #### Ethernet Enable
 
-1. Download this tool 
+1. Download this tool from https://bluebomb.glitch.me/wii-mini-ethernet/index.html
+1. Add it to your Apps folder on your USB
+1. Run it in Homebrew.
+1. and you are set for life.
